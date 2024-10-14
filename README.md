@@ -13,7 +13,9 @@
 
 ```unzip prusa-slicer-bin.zip```
 
-```chmode a+x ./prusa-slicer```
+```chmod a+x ./prusa-slicer```
+
+```rm -f prusa-slicer-bin*```
 
 Активация окружения
 
