@@ -31,6 +31,8 @@
 ```cp .env-dist .env```
 отредактировать .env
 
+Добавить профиль печати (файл printer_profile/PRINTER.ini)
+
 
 Запуск
 
