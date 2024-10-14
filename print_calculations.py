@@ -17,7 +17,7 @@ def calculate_print_time(stl_file_path):
         logger.error("Операционная система не поддерживается для автоматического расчета времени печати.")
         return None
 
-    printer_profile_path = "./printer_profile/FBG6.ini"
+    printer_profile_path = "./printer_profile/PRINTER.ini"
     output_dir = "./temp/"
     os.makedirs(output_dir, exist_ok=True)
 
