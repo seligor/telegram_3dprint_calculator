@@ -17,6 +17,10 @@
 
 ```rm -f prusa-slicer-bin*```
 
+Если по какой либо причине prusa-slicer у вас не запустился - вас ждёт увлекательный процесс сборки своей версии консольного слайсера
+https://github.com/prusa3d/PrusaSlicer/issues/7521
+
+
 Активация окружения
 
 ```source venv/bin/activate```
