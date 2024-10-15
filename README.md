@@ -42,8 +42,8 @@ https://github.com/prusa3d/PrusaSlicer/issues/7521
 1. создать папку incoming
 2. поместить в неё настройки печати из папок
 
-```%APPDATA%/PrusaSlicer/filament`
-   %APPDATA%/PrusaSlicer/print`
+```%APPDATA%/PrusaSlicer/filament
+   %APPDATA%/PrusaSlicer/print
    %APPDATA%/PrusaSlicer/printer```
 
 3. Выбирайте для генерации конфига те же профили, которые используете, не надо закидывать все
