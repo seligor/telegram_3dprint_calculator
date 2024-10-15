@@ -37,6 +37,17 @@ https://github.com/prusa3d/PrusaSlicer/issues/7521
 
 Добавить профиль печати (файл printer_profile/PRINTER.ini)
 
+Для простой генерации конфига накидал скрипт, который собирает парамеры и записывыает в PRINTER.ini. 
+Вам потребуется: 
+1. создать папку incoming
+2. поместить в неё настройки печати из папок
+
+```%APPDATA%/PrusaSlicer/filament`
+   %APPDATA%/PrusaSlicer/print`
+   %APPDATA%/PrusaSlicer/printer```
+
+3. Выбирайте для генерации конфига те же профили, которые используете, не надо закидывать все
+4. Запустите программу и она сгенерирует PRINTER.ini
 
 Запуск
 
