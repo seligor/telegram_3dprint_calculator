@@ -1,4 +1,10 @@
 # telegram_3dprint_calculator
+![Static Badge](https://img.shields.io/badge/seligor-telegram_3dprint_calculator-telegram_3dprint_calculator)
+![GitHub top language](https://img.shields.io/github/languages/top/seligor/telegram_3dprint_calculator)
+![GitHub issues](https://img.shields.io/github/issues/seligor/telegram_3dprint_calculator)
+
+
+
 Бот, который в автоматическом режиме строит модель из stl файла и обсчитывает количество пластика и затраченное время. На основе этого рассчитывает стоимость изготовления детали
 
 Скачивание
